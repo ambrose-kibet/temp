@@ -10,6 +10,7 @@ import {
   SinglePage,
   CartPage,
   ErrorPage,
+  SuccessPage,
 } from './Pages';
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
                 </ProtectedRoute>
               }
             />
+            <Route path="success" element={<SuccessPage />} />
             <Route path="products" element={<ProductsPage />} />
             <Route path="products/:id" element={<SinglePage />} />
             <Route path="cart" element={<CartPage />} />
