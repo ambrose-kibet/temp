@@ -63,7 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://react-bookstore003.netlify.app)
+- [Live Demo Link](https://king-julien.netlify.app/)
 
 <!-- GETTING STARTED -->
 
