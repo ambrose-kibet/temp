@@ -58,7 +58,7 @@ export default function CheckoutForm() {
       elements,
       confirmParams: {
         // Make sure to change this to your payment completion page
-        return_url: 'http://localhost:8888/success',
+        return_url: 'https://king-julien.netlify.app/success',
       },
     });
 
