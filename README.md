@@ -75,9 +75,9 @@
 
 In order to run this project you need:
 
-- [] [Auth0](https://auth0.com/)
-- [] [Stripe](https://stripe.com/docs/payments/quickstart)
-- [] [netlify-CLI ](https://www.npmjs.com/package/netlify-cli)
+- [ ] [Auth0](https://auth0.com/)
+- [ ] [Stripe](https://stripe.com/docs/payments/quickstart)
+- [ ] [netlify-CLI ](https://www.npmjs.com/package/netlify-cli)
 
 <!--
 Example command:
@@ -131,7 +131,7 @@ STRIPE_SECRET_KEY=stripe_secret_key
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **My orders page**
+- [ ] **My orders page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
