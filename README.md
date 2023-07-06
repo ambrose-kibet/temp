@@ -30,7 +30,7 @@
 
 # 📖Comfy Sloth store <a name="about-project"></a>
 
-**Comfy Sloth store** This is an e-commerce application developed using React and Vite. It incorporates the Auth0 authentication system and utilizes an external API to fetch products from the store. Users can easily search and sort products from the store based on their preferences. Additionally, the application enables users to make secure payments using their credit cards .
+**Comfy Sloth store** This is an e-commerce application developed using React and Vite. It incorporates the Auth0 authentication system and utilizes an external API to fetch products from the store. Users can easily search and sort products from the store based on their preferences. Additionally, the application enables users to make secure payments using their credit cards 
 
 ## 🛠 Built With <a name="built-with"></a>
 
